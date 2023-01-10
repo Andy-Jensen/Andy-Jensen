@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andy-Jensen
-- 🌱 I’m new to code and learning about data science! (Noether cohort is #1)
+- 🌱 I’m a data scientist! (Noether cohort is #1)
 - :volcano: I have a background in geology and teaching :man_teacher:
 - :airplane: World traveler!
 
